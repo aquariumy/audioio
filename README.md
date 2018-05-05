@@ -5,7 +5,7 @@ Unity project for iOS/Android Audio Input/Output.
 オーディオの入力／出力のテストのために作成しました。入力した音をリアルタイムに出力します。iOS の CoreAudio と Android の OpenSLES, Samsung Professional Audio の実装をしています。Android 8.0 の AAudio のテストが本命の目的でしたがまだ対応できてないです、これから実装します。<br>
 
 ### 構成
-Unity プロジェクトです。Projects フォルダ以下がプラグインのプロジェクトです。
+Unity プロジェクトです。Projects フォルダ以下がプラグインのプロジェクトです。Samsung Professional Audio のプラグインのプロジェクトはライセンス上の理由で公開できていません。<br>
 
 ### ビルド方法
 Unity のメニューより Tools -> Build -> iOS/Android を実行します。iOS は Xcode のプロジェクトが iOS フォルダに出力されます。Android は jp.co.aquariumy.audioio.apk が出力されます。<br>
