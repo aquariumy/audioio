@@ -1,1 +1,7 @@
 .DS_Store
+/Library/
+/Projects/Eclipse/RemoteSystemsTempFiles/
+/Projects/Eclipse/.metadata/
+/Projects/Eclipse/jp.co.aquariumy.audioio/bin/
+/iOS/
+*.apk
