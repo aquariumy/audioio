@@ -1,5 +1,7 @@
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include "mutex.h"
 #include "audioin.h"
 #include "audioout.h"
@@ -55,7 +57,7 @@ _declspec(dllexport) void createAudioIOPlugin()
 	lockObject			= new Mutex();
 	in					= NULL;
 	out					= NULL;
-	samplesPerBuffer	    = 512;
+	samplesPerBuffer	    = 64;
     inputVolume             = 1.0f;
 	outputVolume		    = 1.0f;
     offsetVolume            = 1.0f;

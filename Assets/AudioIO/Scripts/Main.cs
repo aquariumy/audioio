@@ -18,7 +18,7 @@ public class Main : MonoBehaviour
 
 	private const string STR_CLASS = "Main";
 
-	private const int SAMPLES_PER_BUFFER_DEFAULT	= 3;
+	private const int SAMPLES_PER_BUFFER_DEFAULT	= 0;
 	private const int SAMPLES_PER_BUFFER_NUM		= 6;
 
 	private const float PARAM_DB_MIN = -40.0f;
