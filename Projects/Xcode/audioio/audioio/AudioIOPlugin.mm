@@ -65,7 +65,7 @@ extern "C"
         AVAudioSession *as      = [AVAudioSession sharedInstance];
         lockObject              = [[NSObject alloc] init];
         io                      = nil;
-        samplesPerBuffer        = 512;
+        samplesPerBuffer        = 64;
         inputVolume             = 1.0f;
         outputVolume            = 1.0f;
         offsetVolume            = 1.0f;
