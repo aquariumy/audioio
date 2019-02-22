@@ -22,11 +22,11 @@ CoreAudio のリアルタイム性能が圧倒的です。AAudio, Samsung Profes
 ### 動作確認環境
 MacBook MacOS 10.11.6<br>
 Unity 5.6.4p4<br>
-Xcode 8.1 (+ Device Support iOS 10.2)<br>
+Xcode 8.1 + Device Support iOS 10.2<br>
 Eclipse 4.7.3<br>
 Android SDK 5.0.1(21)<br>
 Android NDK r10e<br>
 iPhone 6 Plus iOS 10.2 + iRig Pro<br>
-Android One S2 Android 8.0 (+ iRig HD-A)<br>
+Android One S2 Android 8.0 + iRig HD-A<br>
 Galaxy S6 edge Android 7.0 + iRig HD-A<br>
 Nexus 5 Android 6.0 + iRig HD-A<br>
